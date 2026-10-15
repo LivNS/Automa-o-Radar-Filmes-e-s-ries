@@ -10,6 +10,12 @@ Automação em Python que acompanha **filmes e séries** pela API do TMDB e avis
 Os avisos aparecem no terminal, e as datas viram eventos no **Google Calendar**
 (ou arquivos `.ics`, caso você não configure o Google).
 
+## Desenvolvedores 
+
+- Debora da Silva Amaral - RM 550412 
+- Eduardo Pielich - RM 99767 
+- Livia Namba Seraphim - RM 97819 
+
 ## Como funciona
 
 ```
